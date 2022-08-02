@@ -1,0 +1,41 @@
+Prepare project plan based on scope, Find jobs and roles responsibilities, Calculate project based on resources.  
+Problem Description: 
+                                    Prepare project plan based on scope:-
+Project Title : Bitcoin Price Prediction Using AI and Machine Learning.
+Prepared By : Ananya Gupta
+Project Scope : Today Bitcoin is a secure transaction system that has a valuable impact on capital. They are awarded under a restriction in which customers offer their computer authority to register and listing trades with the bitcoins. The purchase and sale of Bitcoins in different currencies is carried out in an alternative workplace where "purchase" or "sell" requests are placed in the ordered e-book. "Buy" or "bid" offers to talk about the purpose of purchasing certain Bitcoins measures at a few costs while "provide" or "ask" offers to talk about the expectation of providing certain Bitcoins measures at a certain cost. The change is ordered through the coordination of pricing requests from the arrangement of e-books to a valid exchange between customers and suppliers.
+Project Justification :  There are some algorithms used on stock market data for price prediction but the parameters affecting Bitcoin are distinctive. Therefore, it is essential to expect the price of Bitcoin in order that correct investment decisions can be made. The price of Bitcoin does now not rely on at the business events or intervening government in contrast to the stock market. 
+The study focuses primarily on the Bitcoin closing price for the development of the predictive model. The increase or decrease in the Bitcoin price with the higher volatility makes it harder to predict, but the machine learning models try to predict the price of bitcoin with some degree of accuracy upto 60 % - 75 % .We do this by forecasting from the present day and seeing where it might go in the future.
+
+
+                            Find jobs and roles responsibilities:-
+a) Academia Universities that have set up centers to research and support the growth of Bitcoin, for example MIT's Digital Currency Initiative (DCI), which supports bitcoin core developers.
+b) Bitcoin Advocacy Groups- Non-profit groups who provide research and education on Cryptocurrencies. For example Bitcoin Foundation and Coin Center.
+c) Bitcoin ATMs Providers of BTMs which are modelled after the ATMs (or cash machines).
+d) Bitcoin Developers The developers of the core code.
+e) Bitcoin Lenders Users of peer to peer Bitcoin lending sites who lend Bitcoins for an agreed interest rate. For example see Bitbond.
+f) Research and Development initiatives Groups involved in research and development of the Blockchain for example IC3 The Initiative For CryptoCurrencies & Contract
+g) Speculators - Short term investors in Bitcoin who take larger risks in the hope of quick gains.
+h) Wallets Providers of Bitcoin wallets for example Coinbase, Blockchain.info or StrongCoin
+
+                                Calculate project based on resources:-
+a) People / Human Resource :-
+Academia Universities, Bitcoin Advocacy Groups, Bitcoin ATMs,Bitcoin Developers, Bitcoin Lenders, Research and Development initiatives Groups, Speculators, Wallets, Associations Trade and industry associations, Customers,Freelancers, Investors, Merchants, Miners, Mining Hardware providers, Mining Pools, Tax regulators, Traders, Government Treasuries.
+b) Reusable Software Component :-
+• Operating system -For an instance WINDOW 10 ,linux or Mac 
+• JUPITER NOTEBOOK or PYTHON 3 
+• Installed Numpy, Keras( can also use TensorFlow instead of Keras).
+• DATASET ( Training Dataset and Testing Dataset ) :- The Open, High, Low and Close columns in the data set signify the Opening, highest, lowest and Closing price of Bitcoin against the USD on that particular day.Time: Timestamp in seconds, 1508818680, for instance.Volumefrom: Trading volume in the from currency. It’s BTC in our case. Volumeto: The trading volume in the to currency, USD in our case. Dividing Volumeto by Volumefrom gives us the weighted price of BTC(bitcoin).
+c) Hardware and Software tools :-
+•A Desktop or Laptop.
+•JUPITER NOTEBOOK or PYTHON 3.
+•Text Editor - NOTEPAD or NOTEPAD++.
+•Wireless connectivity.
+•OpenGL graphics card.
+•OS -For an instance WINDOW 10 ,linux or Mac , Operating System - 64-bit.
+•CPU: Intel or AMD processor with 64-bit support.
+•RAM - 8 GB.
+•Processor - Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz 2.30GHz .
+•Internet: Internet connection required for software activation.
+d) Budget :-
+To develop this project , I need to required - Estimated Budget as per the requirement and technologies used.
