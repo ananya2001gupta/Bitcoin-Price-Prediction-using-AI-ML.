@@ -1,0 +1,28 @@
+Prepare the work- Breakdown Structure based on timelines, Risk Identification and Plan.
+Problem Description: 
+Breakdown Structure based on timelines:- 
+Risk Identification and Plan:-
+Definition of Risk Identification -->   Risk identification is the process of determining risks that could potentially prevent the program, enterprise, or investment from achieving its objectives. It includes documenting and communicating the concern.
+There are some Risks and how to manage them in this project :-
+a) Traditional Methods are unable to capture non-linear patterns .
+b)Machine learning methods may be unable capturing very complicated patterns.
+c) MAE, RMSE and Accuracy are not efficient enough. - Let assume a test of 100 questions.
+Model A answers 60 correct questions; Score A = 60/100.
+Model B selects to answer only 9 questions while it answers all correctly; Score B = 9/100.
+Which model is better?
+➢ A cryptocurrency investor probably would choose Model B even if its accuracy score is too
+low.
+➢ A proper validation must emphasize on investor profits.
+➢ Thus, the invention of new alternative evaluation
+methods is essential.New evaluation metrics should be invented
+d) The change in volatility, f1−4 is an important indicator. It is a measure of the uncertainty and is
+used to reflect the risk level of Bitcoin price. The larger the value of f1−4 is, the stronger the signals
+are. Formally, the change in volatility between current period (cur) and previous period (pre)
+e) . Data Normalization
+We need to normalize inputs in neural networks and other data mining models, otherwise, the
+network will perform poorly.
+method:- Normalization here uses the MinMaxScalar Package, after normalization, data is plotted using
+matplot libraries and the trend is seen to check the fluctuations in the price and volume of the bitcoin
+over the last 2 years (2017-2018).
+f)Budgetting :- To maintain this , we can use reuable software components .
+ 
