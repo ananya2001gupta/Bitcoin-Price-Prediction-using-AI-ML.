@@ -1,0 +1,52 @@
+Identify the Requirements, System Requirements, Functional Requirements, Non-Functional Requirements .
+PROBLEM DESCRIPTION:  
+1- Software Requirement:-
+a) CLIENT REQUIREMENT:- 
+•Volatile.
+•Modifiable.
+•Consistent.
+•Trackable.
+•Reliable.
+•Provide help information.
+•Easy to predict the price of bitcoin.
+•Fluctuation in price must be graphed.
+
+b)DEVELOPER REQUIREMENT:-
+•Basic Algorithms of Machine Learning.
+•Beginner level knowledge of Python 3 or Jupiter Notebook.
+•Historical transaction data for Bitcoin.
+•Making Sense of the Data Through Visualization.
+
+
+2 - System Requirement:-
+•ANACONDA NAVIGATOR (anaconda3).
+•JUPITER NOTEBOOK or PYTHON 3.
+•Text Editor - NOTEPAD or NOTEPAD++.
+•Quality of Service (QoS) in Cloud.
+•Wireless connectivity.
+•OpenGL graphics card.
+•OS -For an instance WINDOW 10 ,linux or Mac.
+•Operating System - 64-bit.
+•CPU: Intel or AMD processor with 64-bit support.
+•RAM - 8 GB.
+•Processor - Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz 2.30GHz .
+•Internet: Internet connection required for software activation.
+
+3 - Functional Requirement:-
+•Users can easily decide upon their preferences and the services they are looking for, without investing any money beforehand.
+•The key will enable every cloud user on the network to take the key and add on the ledger.
+•If any party tries to changes contract on the Blockchain all other cloud users can detect and prevent it.
+•Search option given to user to search from various invoices.
+•User should be able to mail any report to management.
+•Software is developed keeping downward compatibility intact.
+•Allows direct transactions between individuals.
+
+4- Non-Functional Requirement:-
+•Openness.
+•Concurrency.
+•Scalability - (a)Size , (b)Distribution/Transaction Processing rate , (c)Manageability/latency.
+•Fault tolerance.
+•Transparency.
+•Security.
+•Quality of Service .
+•Failure Management.
