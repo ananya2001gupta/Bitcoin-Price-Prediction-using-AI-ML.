@@ -1,0 +1,41 @@
+Stakeholder and User Description, Identify the appropriate Process Model, Comparative study with Agile Model.
+
+Problem Description: (Process Step)
+
+A)	Stakeholder and it’s categories: -
+
+Meaning of Stakeholder: -  A stakeholder is a party that has an interest in a company  and can  either affect or be affected by the business.
+
+It is categorized into two parts: -
+
+i)	Internal Stakeholder: - Investors are internal stakeholders who are significantly impacted by the associated concern and its performance. Internal stakeholders are people whose interest in a company comes through a direct relationship, such as employment, ownership, or investment.
+
+ii)	External Stakeholder: - External stakeholders do not have a direct relationship with the company. External stakeholders are those who do not directly work with a company but are affected somehow by the actions and outcomes of the business. Suppliers, creditors, and public groups.
+
+
+         B)  Stakeholders in Bitcoin Price Prediction using AI and Machine Learning: -
+
+i) Internal Stakeholders are    Academia Universities, Bitcoin Advocacy Groups, Bitcoin ATMs,Bitcoin Developers, Bitcoin Lenders, Research and Development initiatives Groups, Speculators, Wallets.
+
+ii) External Stakeholders are    Associations Trade and industry associations, Customers, Freelancers, Investors, Merchants, Miners, Mining Hardware providers, Mining Pools, Tax regulators, Traders, Government Treasuries.
+
+
+2. Waterfall Model: -
+
+Introduction: -
+
+This model is also known as linear-sequential life cycle model. The Waterfall Model was the first Process Model to be introduced.  It is very simple to understand and use. In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in any phases. It illustrates the
+software development process in a linear sequential flow. This means that any phase in the development process begins only if the previous phase is complete.
+                                                                                                 
+
+3-Comparative study with Agile Model: - 
+                            
+Waterfall Model	                                                                                  Agile Model
+1-	Waterfall helps complete one single project.	                                                1-Agile helps complete many small projects.
+2-	Waterfall is a linear and sequential approach.	                                              2-Agile is an incremental and iterative approach.
+3-	Waterfall divides a project into phases.	                                                    3-Agile separates a project into sprints.
+4-	Waterfall avoids scope changes once the project starts.                                      	4-Agile allows requirement changes at any time.
+5-	Waterfall requires a project manager who plays an essential role in every phase.	            5-Agile enables the entire team to manage the project without a dedicated project manager.
+6-	Requirements are prepared once at the start in Waterfall.	                                    6-Requirements are prepared every day in Agile.
+7-	Testing phase comes only after the build phase in Waterfall.	                                7-Testing is performed concurrently with development in Agile.
+
